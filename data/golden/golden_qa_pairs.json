@@ -1,0 +1,30 @@
+[
+  {
+    "id": "qa-001",
+    "question": "What is Python and when was it created?",
+    "ground_truth_answer": "Python is a high-level programming language created by Guido van Rossum, first released in 1991.",
+    "relevant_source": "python_overview.txt",
+    "expected_keywords": ["python", "guido", "1991", "programming language"]
+  },
+  {
+    "id": "qa-002",
+    "question": "What is Python used for?",
+    "ground_truth_answer": "Python is used for web development, data science, machine learning, and automation.",
+    "relevant_source": "python_overview.txt",
+    "expected_keywords": ["web", "data science", "machine learning", "automation"]
+  },
+  {
+    "id": "qa-003",
+    "question": "What are the three largest cloud providers?",
+    "ground_truth_answer": "The three largest cloud providers are Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).",
+    "relevant_source": "cloud_computing.txt",
+    "expected_keywords": ["aws", "azure", "google cloud"]
+  },
+  {
+    "id": "qa-004",
+    "question": "What is IaaS?",
+    "ground_truth_answer": "IaaS stands for Infrastructure as a Service, which provides virtual machines, storage, and networking. An example is AWS EC2.",
+    "relevant_source": "cloud_computing.txt",
+    "expected_keywords": ["infrastructure", "service", "virtual machines"]
+  }
+]

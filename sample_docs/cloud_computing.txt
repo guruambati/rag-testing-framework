@@ -1,0 +1,12 @@
+Cloud Computing — Concepts and Services
+
+Cloud computing delivers on-demand computing resources over the internet, including storage, processing power, databases, and networking. The three largest providers are Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+
+Cloud service models:
+- IaaS (Infrastructure as a Service): Virtual machines, storage, networking. Example: AWS EC2.
+- PaaS (Platform as a Service): Development platforms. Example: Google App Engine.
+- SaaS (Software as a Service): Ready-to-use applications. Example: Gmail, Salesforce.
+
+Key benefits: scalability, cost efficiency, geographic distribution, and high availability.
+
+Kubernetes is widely used to orchestrate containerized workloads in cloud environments. Object storage services like Amazon S3 provide scalable, durable storage for unstructured data.

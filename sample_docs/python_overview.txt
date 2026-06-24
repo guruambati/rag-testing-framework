@@ -1,0 +1,14 @@
+Python Programming Language — Overview
+
+Python is a high-level, general-purpose programming language created by Guido van Rossum and first released in 1991. Its design philosophy emphasizes code readability, using significant indentation to define code structure.
+
+Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+
+Key uses of Python include:
+- Web development (Django, Flask, FastAPI)
+- Data science and analytics (Pandas, NumPy)
+- Machine learning (TensorFlow, PyTorch, scikit-learn)
+- Automation and scripting
+- API development
+
+Python consistently ranks as one of the most popular programming languages in developer surveys. Its extensive standard library and vibrant ecosystem of third-party packages make it a versatile choice for many domains.
